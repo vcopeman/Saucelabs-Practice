@@ -11,8 +11,8 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 
 public class TestSauce
 {
-	  public static final String USERNAME = "VikkiCopeman";
-	  public static final String ACCESS_KEY = "1f34220e-b6a1-46a2-924e-c4763e817518";
+	  public static final String USERNAME = "ENTER_INFO";
+	  public static final String ACCESS_KEY = "ENTER_INFO";
 	  public static final String URL = "http://" + USERNAME + ":" + ACCESS_KEY + "@ondemand.saucelabs.com:80/wd/hub";
 
 	  @Test	
